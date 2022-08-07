@@ -2,11 +2,15 @@ package ar.utn.frbb.tup.juego.rol;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class CreacionPersonajes {
     public static List<Personaje> personajeList = new ArrayList<Personaje>();
     public static List<Personaje> Jugador1 = new ArrayList<Personaje>();
     public static List<Personaje> Jugador2 = new ArrayList<Personaje>();
+    private static int getNumeroRandom(int min, int max){
+        return ThreadLocalRandom.current().nextInt(min, max);
+    }
     public static void crearPersonajes() {
         Personaje orco = new Orco("Orco","Pepe","Pepito", "19/11/2002",19,100,6,7,9,8,7);
         Personaje orco2 = new Orco("Orco","Lucas","Pepito", "19/11/2002",19,100,6,7,9,8,7);
@@ -113,9 +117,10 @@ public class CreacionPersonajes {
         Jugador2.add(new Personaje());
         Jugador2.add(new Personaje());
 
-        int perjug1 = (int)(Math. random()*(14));
-        int per2jug1 = (int)(Math. random()*(29));
-        int per3jug1 = (int)(Math. random()*(44));
+
+        int perjug1 = getNumeroRandom(0,14);
+        int per2jug1 = getNumeroRandom(14,28);
+        int per3jug1 = getNumeroRandom(29,42);
 
         Personaje n1 = personajeList.get(perjug1);
         Jugador1.set(0, n1);
@@ -127,9 +132,9 @@ public class CreacionPersonajes {
         personajeList.remove(n3);
         Jugador1.set(2, n3);
 
-        int perjug2 = (int)(Math. random()*(13));
-        int per2jug2 = (int)(Math. random()*(27-14+1)+14);
-        int per3jug2 = (int)(Math. random()*(41-28+1)+28);
+        int perjug2 = getNumeroRandom(0,13);
+        int per2jug2 = getNumeroRandom(13,27);
+        int per3jug2 = getNumeroRandom(27,40);
 
         Personaje nn1 = personajeList.get(perjug2);
         Jugador2.set(0, nn1);
