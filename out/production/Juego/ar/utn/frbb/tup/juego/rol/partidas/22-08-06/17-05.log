@@ -1,0 +1,83 @@
+----------------------------------------
+  Damos inicio a la ronda de los orcos  
+----------------------------------------
+jugador 1: Manuel, Pepe, Hana
+jugador 2: Nicolas, Sarah, Pom
+
+Ronda 1:
+
+El orco del jugador 1 realiza un ataque y queda con una salud de 60
+El orco del jugador 2 realiza un ataque y queda con una salud de 97
+
+Ronda 2:
+
+El orco del jugador 1 realiza un ataque y queda con una salud de 18
+El orco del jugador 2 realiza un ataque y queda con una salud de 96
+
+Ronda 3:
+
+El orco del jugador 2 mato antes al orco del jugador 1 con su ataque, haciendo que este no pueda reaccionar, quedando con una salud de 96
+
+la primera ronda la gano el jugador numero 2 con su personaje llamado Nicolas y quedando con una salud de 96
+la lista del jugador uno es de  2 mientras que la del 2 es de 3
+
+----------------------------------------
+  Damos inicio a la ronda de los elfos  
+----------------------------------------
+
+Ronda 1:
+
+El elfo del jugador 1 realiza un ataque y queda con una salud de 87
+El elfo del jugador 2 realiza un ataque y queda con una salud de 17
+
+Ronda 2:
+
+El elfo del jugador 1 realiza un ataque y queda con una salud de 14
+El elfo del jugador 2 realiza un ataque y queda con una salud de 14
+
+Ronda 3:
+
+El elfo del jugador 2 mato antes al elfo del jugador 1 con su ataque, haciendo que este no pueda reaccionar , quedando con una salud de 14
+
+la segunda ronda la gano el jugador numero 2 con su personaje llamado Sarah y quedando con una salud de 14
+la lista del jugador uno es de  1 mientras que la del 2 es de 3
+
+----------------------------------------
+ Damos inicio a la ronda de los humanos 
+----------------------------------------
+
+Ronda 1:
+
+El humano del jugador 1 realiza un ataque y queda con una salud de 98
+El humano del jugador 2 realiza un ataque y queda con una salud de 32
+
+Ronda 2:
+
+El humano del jugador 1 realiza un ataque y queda con una salud de 81
+El humano del jugador 2 realiza un ataque y queda con una salud de 11
+
+Ronda 3:
+
+El humano del jugador 1 realiza un ataque y queda con una salud de 64
+El humano del jugador 2 realiza un ataque y queda con una salud de -48
+
+la tercera ronda la gano el jugador numero 1 con su personaje llamado Hana y quedando con una salud de 64
+la lista del jugador uno es de  1 mientras que la del 2 es de 2
+
+-----------------------------------------------------------
+   Damos inicio a la ultima ronda, la definitoria, 1 vs 2    
+-------------------------------------------------------------
+Nicolas y Sarah va a pelear contra solamente 1, especificamente Hana
+
+Ronda 1:
+
+El Elfo del jugador 1 realiza un ataque y queda con una salud de 64
+ElOrco del jugador 2 realiza un ataque y queda con una salud de 92
+
+Ronda 2:
+
+El Elfo del jugador 1 realiza un ataque y queda con una salud de 63
+la efectividad de disparo del jugador 1 fue de 0.39 mientras que la del jugador 2 fue de 0.89
+
+El Orco del jugador 2 mato antes al Elfo del jugador 1 con su ataque, haciendo que este no pueda reaccionar
+Gano el jugador 2, sus felicitaciones al mismo

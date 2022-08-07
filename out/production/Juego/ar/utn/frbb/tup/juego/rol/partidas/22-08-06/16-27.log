@@ -1,0 +1,61 @@
+----------------------------------------
+  Damos inicio a la ronda de los orcos  
+----------------------------------------
+jugador 1: Manuel, Sara, Julian
+jugador 2: Bicha, Margarita, Joaquin
+
+Ronda 1:
+
+El orco del jugador 1 realiza un ataque y queda con una salud de 39
+El orco del jugador 2 realiza un ataque y queda con una salud de 97
+
+Ronda 2:
+
+El orco del jugador 1 realiza un ataque y queda con una salud de 26
+El orco del jugador 2 realiza un ataque y queda con una salud de 92
+
+Ronda 3:
+
+El orco del jugador 1 realiza un ataque y queda con una salud de 12
+El orco del jugador 2 realiza un ataque y queda con una salud de -12
+
+la primera ronda la gano el jugador numero 1 con su personaje llamado Manuel y quedando con una salud de 12
+la lista del jugador uno es de  3 mientras que la del 2 es de 2
+
+----------------------------------------
+  Damos inicio a la ronda de los elfos  
+----------------------------------------
+
+Ronda 1:
+
+El elfo del jugador 1 realiza un ataque y queda con una salud de 27
+El elfo del jugador 2 realiza un ataque y queda con una salud de -2
+
+la segunda ronda la gano el jugador numero 1 con su personaje llamado Sara y quedando con una salud de 27
+la lista del jugador uno es de  3 mientras que la del 2 es de 1
+
+----------------------------------------
+ Damos inicio a la ronda de los humanos 
+----------------------------------------
+
+Ronda 1:
+
+El humano del jugador 1 realiza un ataque y queda con una salud de 74
+El humano del jugador 2 realiza un ataque y queda con una salud de 8
+
+Ronda 2:
+
+El humano 2 mato antes al humano 1 con su ataque, haciendo que este no pueda reaccionar, quedando con una salud de 8
+
+la tercera ronda la gano el jugador numero 2 con su personaje llamado Joaquin y quedando con una salud de 8
+la lista del jugador uno es de  2 mientras que la del 2 es de 1
+
+-----------------------------------------------------------
+   Damos inicio a la ultima ronda, la definitoria, 1 vs 2    
+-------------------------------------------------------------
+Joaquin va a pelear contra 2, contra Manuel y Sara
+
+Ronda 1:
+
+El Orco del jugador 1 mato al Humano del jugador 2 con su ataque, haciendo que este no pueda reaccionar, quedando con una salud de 12
+Joaquin no pudo ante el primer personaje del jugador 2 (Manuel), haciendo quedar a este jugador como victorioso!
