@@ -36,8 +36,6 @@ public class Main {
                         int count2 = 1;
                         int count3 = 1;
 
-                        System.out.println(Jugador1.size() + " y el 2 " + Jugador2.size());
-
                         Log.loguearLineaTexto("----------------------------------------");
                         Log.loguearLineaTexto("  Damos inicio a la ronda de los orcos  ");
                         Log.loguearLineaTexto("----------------------------------------");
